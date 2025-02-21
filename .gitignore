@@ -1,0 +1,15 @@
+__pycache__
+runs
+*.pth
+*.png
+*.jpg
+.idea
+wandb
+output
+*.tex
+logs
+*.pdf
+.vscode
+*.nii.gz
+*.bin
+.DS_Store
