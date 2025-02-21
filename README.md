@@ -1,6 +1,6 @@
 # BaS: Efficient Breast Lesion Segmentation from Ultrasound Videos Across Multiple Source-limited Platforms
 
-🎉 This work is published in [IEEE Journal of Biomedical and Health Informatics](hhttps://ieeexplore.ieee.org/document/10892059)
+🎉 This work is published in [IEEE Journal of Biomedical and Health Informatics](https://ieeexplore.ieee.org/document/10892059)
 
 # Abstract
 **Medical video segmentation** is fundamentally important in clinical diagnosis and treatment procedures, offering dynamic tracking of breast lesions across frames in ultrasound videos for improved segmentation performance. However, existing approaches face challenges in striking a **balance between segmentation performance and inference speed**, hindering real-time application in resource-constrained medical environments. In order to address these limitations, we present **BaS, a blazing-fast on-device breast lesion segmentation model**. BaS integrates the Stem module and BaSBlock to refine representations through inter- and intra-frame analysis on ultrasound videos. In addition, we release two versions of BaS: the BaS-S for superior segmentation performance and the BaS-L for accelerated inference times. Experimental Results indicate that BaS surpasses the top-performing models in terms of segmenting efficiency and accuracy of predictions on devices with limited resources. This work advances the development of efficient medical video segmentation frameworks applicable to multiple medical platforms. [CodeLink](https://github.com/deepang-ai/BaS)
